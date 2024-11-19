@@ -27,4 +27,4 @@ O gerador é totalmente responsivo, funcionando bem em dispositivos móveis e de
 
 1. **Clique no link** para abrir no seu computador computador:
    ```bash
-   
+   https://kauesramos.github.io/Gerador-de-senhas/
